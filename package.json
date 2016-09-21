@@ -1,10 +1,10 @@
 {
-    "name": "mean-stack-registration-login-example",
+    "name": "pk",
     "version": "1.0.0",
-    "description": "MEAN Stack User Registration and Login Example Application",
+    "description": "source code repository and control tool",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
+        "url": "https://github.com/teja99k/pk.git"
     },
     "dependencies": {
         "bcryptjs": "^2.1.0",
